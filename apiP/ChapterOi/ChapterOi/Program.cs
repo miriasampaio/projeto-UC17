@@ -31,7 +31,7 @@ builder.Services.AddAuthentication(options =>
     {
         ValidateAudience = true,
         ValidateIssuer = true,
-        IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("chapter-chave-autenticação"))
+        IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes("chapter-chave-autenticação")),
         ClockSkew = TimeSpan.FromMinutes(60),
         ValidAudience = "chapter.webapi",
         ValidIssuer = "chapter.webapi"

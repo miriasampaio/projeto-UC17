@@ -72,3 +72,4 @@ C:\Users\miria\OneDrive\Área de Trabalho\ChapterApiOi\apiP\ChapterOi\ChapterOi\
 C:\Users\miria\OneDrive\Área de Trabalho\ChapterApiOi\apiP\ChapterOi\ChapterOi\obj\Debug\net6.0\ChapterOi.pdb
 C:\Users\miria\OneDrive\Área de Trabalho\ChapterApiOi\apiP\ChapterOi\ChapterOi\obj\Debug\net6.0\ChapterOi.genruntimeconfig.cache
 C:\Users\miria\OneDrive\Área de Trabalho\ChapterApiOi\apiP\ChapterOi\ChapterOi\obj\Debug\net6.0\ref\ChapterOi.dll
+C:\Users\miria\OneDrive\Área de Trabalho\ChapterApiOi\apiP\ChapterOi\ChapterOi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
